@@ -1,26 +1,97 @@
 {
   "juices": [
     {
-      "name": "Orange",
-      "image": "url",
-      "color": "#FF9800",
-      "ingredients": "5 laranjas\n1 limão\nAçucar",
-      "method": "Corte e esprema as 5 laranjas\nCorte e esprema o limão\nPegue a casta de UMA laranja\nMisture tudo em um jarro de água gelada\nPasse por uma peneira fina"
-    },
-    {
-      "name": "Lemon",
+      "name": "Abacaxi",
       "image": "url",
       "ingredients": "ingredientes",
       "method": "modo de preparo"
     },
     {
-      "name": "Pineapple",
+      "name": "Acerola",
       "image": "url",
       "ingredients": "ingredientes",
       "method": "modo de preparo"
     },
     {
-      "name": "Passion fruit",
+      "name": "Ameixa",
+      "image": "url",
+      "ingredients": "ingredientes",
+      "method": "modo de preparo"
+    },
+    {
+      "name": "Caju",
+      "image": "url",
+      "ingredients": "ingredientes",
+      "method": "modo de preparo"
+    },
+    {
+      "name": "Goiaba",
+      "image": "url",
+      "ingredients": "ingredientes",
+      "method": "modo de preparo"
+    },
+    {
+      "name": "Graviola",
+      "image": "url",
+      "ingredients": "ingredientes",
+      "method": "modo de preparo"
+    },
+    {
+      "name": "Jabuticaba",
+      "image": "url",
+      "ingredients": "ingredientes",
+      "method": "modo de preparo"
+    },
+    {
+      "name": "Laranja",
+      "image": "url",
+      "ingredients": "ingredientes",
+      "method": "modo de preparo"
+    },
+    {
+      "name": "Limão",
+      "image": "url",
+      "ingredients": "ingredientes",
+      "method": "modo de preparo"
+    },
+    {
+      "name": "Maça",
+      "image": "url",
+      "ingredients": "ingredientes",
+      "method": "modo de preparo"
+    },
+    {
+      "name": "Manga",
+      "image": "url",
+      "ingredients": "ingredientes",
+      "method": "modo de preparo"
+    },
+    {
+      "name": "Maracuja",
+      "image": "url",
+      "ingredients": "ingredientes",
+      "method": "modo de preparo"
+    },
+    {
+      "name": "Melancia",
+      "image": "url",
+      "ingredients": "ingredientes",
+      "method": "modo de preparo"
+    },
+    {
+      "name": "Morango",
+      "image": "url",
+      "ingredients": "ingredientes",
+      "method": "modo de preparo"
+    },
+    {
+      "name": "Pitanga",
+      "image": "url",
+      "ingredients": "ingredientes",
+      "method": "modo de preparo"
+    },
+    {
+      "name": "Uva",
       "image": "url",
       "ingredients": "ingredientes",
       "method": "modo de preparo"

@@ -1,6 +1,48 @@
 {
   "juices": [
     {
+      "name": "Abacaxi",
+      "image": "url",
+      "ingredients": "ingredientes",
+      "method": "modo de preparo"
+    },
+    {
+      "name": "Acerola",
+      "image": "url",
+      "ingredients": "ingredientes",
+      "method": "modo de preparo"
+    },
+    {
+      "name": "Ameixa",
+      "image": "url",
+      "ingredients": "ingredientes",
+      "method": "modo de preparo"
+    },
+    {
+      "name": "Caju",
+      "image": "url",
+      "ingredients": "ingredientes",
+      "method": "modo de preparo"
+    },
+    {
+      "name": "Goiaba",
+      "image": "url",
+      "ingredients": "ingredientes",
+      "method": "modo de preparo"
+    },
+    {
+      "name": "Graviola",
+      "image": "url",
+      "ingredients": "ingredientes",
+      "method": "modo de preparo"
+    },
+    {
+      "name": "Jabuticaba",
+      "image": "url",
+      "ingredients": "ingredientes",
+      "method": "modo de preparo"
+    },
+    {
       "name": "Laranja",
       "image": "url",
       "ingredients": "ingredientes",
@@ -13,13 +55,43 @@
       "method": "modo de preparo"
     },
     {
-      "name": "Abacaxi",
+      "name": "Maça",
+      "image": "url",
+      "ingredients": "ingredientes",
+      "method": "modo de preparo"
+    },
+    {
+      "name": "Manga",
       "image": "url",
       "ingredients": "ingredientes",
       "method": "modo de preparo"
     },
     {
       "name": "Maracuja",
+      "image": "url",
+      "ingredients": "ingredientes",
+      "method": "modo de preparo"
+    },
+    {
+      "name": "Melancia",
+      "image": "url",
+      "ingredients": "ingredientes",
+      "method": "modo de preparo"
+    },
+    {
+      "name": "Morango",
+      "image": "url",
+      "ingredients": "ingredientes",
+      "method": "modo de preparo"
+    },
+    {
+      "name": "Pitanga",
+      "image": "url",
+      "ingredients": "ingredientes",
+      "method": "modo de preparo"
+    },
+    {
+      "name": "Uva",
       "image": "url",
       "ingredients": "ingredientes",
       "method": "modo de preparo"
