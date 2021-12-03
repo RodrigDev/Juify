@@ -1,0 +1,29 @@
+{
+  "juices": [
+    {
+      "name": "Orange",
+      "image": "url",
+      "color": "#FF9800",
+      "ingredients": "5 laranjas\n1 limão\nAçucar",
+      "method": "Corte e esprema as 5 laranjas\nCorte e esprema o limão\nPegue a casta de UMA laranja\nMisture tudo em um jarro de água gelada\nPasse por uma peneira fina"
+    },
+    {
+      "name": "Lemon",
+      "image": "url",
+      "ingredients": "ingredientes",
+      "method": "modo de preparo"
+    },
+    {
+      "name": "Pineapple",
+      "image": "url",
+      "ingredients": "ingredientes",
+      "method": "modo de preparo"
+    },
+    {
+      "name": "Passion fruit",
+      "image": "url",
+      "ingredients": "ingredientes",
+      "method": "modo de preparo"
+    }
+  ]
+}

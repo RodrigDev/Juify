@@ -1,0 +1,28 @@
+{
+  "juices": [
+    {
+      "name": "Laranja",
+      "image": "url",
+      "ingredients": "ingredientes",
+      "method": "modo de preparo"
+    },
+    {
+      "name": "Limão",
+      "image": "url",
+      "ingredients": "ingredientes",
+      "method": "modo de preparo"
+    },
+    {
+      "name": "Abacaxi",
+      "image": "url",
+      "ingredients": "ingredientes",
+      "method": "modo de preparo"
+    },
+    {
+      "name": "Maracuja",
+      "image": "url",
+      "ingredients": "ingredientes",
+      "method": "modo de preparo"
+    }
+  ]
+}

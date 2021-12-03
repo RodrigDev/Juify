@@ -1,0 +1,28 @@
+{
+  "juices": [
+    {
+      "name": "Naranja",
+      "image": "url",
+      "ingredients": "ingredientes",
+      "method": "modo de preparo"
+    },
+    {
+      "name": "Limón",
+      "image": "url",
+      "ingredients": "ingredientes",
+      "method": "modo de preparo"
+    },
+    {
+      "name": "Piña",
+      "image": "url",
+      "ingredients": "ingredientes",
+      "method": "modo de preparo"
+    },
+    {
+      "name": "Maracuyá",
+      "image": "url",
+      "ingredients": "ingredientes",
+      "method": "modo de preparo"
+    }
+  ]
+}
