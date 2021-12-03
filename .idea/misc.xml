@@ -4,10 +4,16 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/User/AndroidStudioProjects/Juify/app/src/main/res/drawable/ic_add.xml" value="0.2703125" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Juify/app/src/main/res/drawable/ic_back.xml" value="0.2703125" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Juify/app/src/main/res/drawable/rounded_all_border.xml" value="1.3892857142857142" />
         <entry key="..\:/Users/User/AndroidStudioProjects/Juify/app/src/main/res/drawable/rounded_border.xml" value="0.2703125" />
         <entry key="..\:/Users/User/AndroidStudioProjects/Juify/app/src/main/res/layout/activity_main.xml" value="0.1793478260869565" />
         <entry key="..\:/Users/User/AndroidStudioProjects/Juify/app/src/main/res/layout/fragment_home.xml" value="0.264" />
         <entry key="..\:/Users/User/AndroidStudioProjects/Juify/app/src/main/res/layout/fragment_info.xml" value="0.264" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Juify/app/src/main/res/layout/item.xml" value="0.1585144927536232" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Juify/app/src/main/res/layout/item_list.xml" value="0.264" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Juify/app/src/main/res/layout/item_page.xml" value="0.264" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Juify/app/src/main/res/layout/list_item.xml" value="0.1585144927536232" />
       </map>
     </option>
   </component>
